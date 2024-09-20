@@ -44,8 +44,8 @@ def save_to_excel(dataframe, excel_file_path):
         dataframe.to_excel(writer, index=False, sheet_name='Logs')
 
 # Path to the input text file and output Excel file
-log_file_path = '/home/atre/text2excel/test_tril_1.txt'  # Change this to your log file path
-excel_file_path = '/home/atre/text2excel/collected_data2.xlsx'  # Change this to your desired output file path
+log_file_path = 'C:\\Users\\siva1\\Desktop\\Github\\text2excel\\collectedData.txt'  # Change this to your log file path
+excel_file_path = 'c:\\Users\\siva1\\Desktop\\Github\\text2excel\\collected_data2.xlsx'  # Change this to your desired output file path
 
 # Convert log file to DataFrame and save to Excel
 df = log_to_dataframe(log_file_path)
