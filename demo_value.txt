@@ -1,0 +1,146 @@
+2024-09-23 - 12:05:53.227 - FeedbackGeneratedfromRos - {'status': '(3) SAFE_OFF', 'timestamp': '2024-09-23 12:05:53.227'}
+2024-09-23 - 12:05:53.227 - FeedbackAfterWebsocket - {'status': '(3) SAFE_OFF', 'timestamp': '2024-09-23 12:05:53.227'}
+2024-09-23 - 12:05:54.228 - FeedbackGeneratedfromRos - {'status': '(3) SAFE_OFF', 'timestamp': '2024-09-23 12:05:54.228'}
+2024-09-23 - 12:05:54.228 - FeedbackAfterWebsocket - {'status': '(3) SAFE_OFF', 'timestamp': '2024-09-23 12:05:54.228'}
+2024-09-23 - 12:05:55.229 - FeedbackGeneratedfromRos - {'status': '(3) SAFE_OFF', 'timestamp': '2024-09-23 12:05:55.229'}
+2024-09-23 - 12:05:55.232 - FeedbackAfterWebsocket - {'status': '(3) SAFE_OFF', 'timestamp': '2024-09-23 12:05:55.229'}
+2024-09-23 - 12:05:56.233 - FeedbackGeneratedfromRos - {'status': '(3) SAFE_OFF', 'timestamp': '2024-09-23 12:05:56.233'}
+2024-09-23 - 12:05:56.235 - FeedbackAfterWebsocket - {'status': '(3) SAFE_OFF', 'timestamp': '2024-09-23 12:05:56.233'}
+2024-09-23 - 12:05:57.236 - FeedbackGeneratedfromRos - {'status': '(3) SAFE_OFF', 'timestamp': '2024-09-23 12:05:57.236'}
+2024-09-23 - 12:05:57.240 - FeedbackAfterWebsocket - {'status': '(3) SAFE_OFF', 'timestamp': '2024-09-23 12:05:57.236'}
+2024-09-23 - 12:05:58.240 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:05:58.240'}
+2024-09-23 - 12:05:58.243 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:05:58.240'}
+2024-09-23 - 12:05:59.243 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:05:59.243'}
+2024-09-23 - 12:05:59.246 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:05:59.243'}
+2024-09-23 - 12:06:00.246 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:00.246'}
+2024-09-23 - 12:06:00.247 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:00.246'}
+2024-09-23 - 12:06:01.247 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:01.247'}
+2024-09-23 - 12:06:01.250 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:01.247'}
+2024-09-23 - 12:06:02.251 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:02.251'}
+2024-09-23 - 12:06:02.251 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:02.251'}
+2024-09-23 - 12:06:03.253 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:03.253'}
+2024-09-23 - 12:06:03.253 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:03.253'}
+2024-09-23 - 12:06:04.254 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:04.254'}
+2024-09-23 - 12:06:04.254 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:04.254'}
+2024-09-23 - 12:06:05.255 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:05.255'}
+2024-09-23 - 12:06:05.258 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:05.255'}
+2024-09-23 - 12:06:06.258 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:06.258'}
+2024-09-23 - 12:06:06.261 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:06.258'}
+2024-09-23 - 12:06:07.126 - BeforeWebsocket - 2024-09-23 - 12:06:07.143 - {"x": -0.03, "y": 0.0, "z": -0.01, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:07.143"}
+2024-09-23 - 12:06:07.126 - AfterWebsocket - {"x": -0.03, "y": 0.0, "z": -0.01, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:07.143"}
+2024-09-23 - 12:06:07.126 - BeforePublishingToRos - [{"x": -0.03, "y": 0.0, "z": -0.01, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:07.143"}]
+2024-09-23 - 12:06:07.126 - AfterRos - [{'x': -0.03, 'y': 0.0, 'z': -0.01, 'roll': 0.0, 'pitch': 0.0, 'yaw': 0.0, 'button0': 0, 'button1': 0, 'timeStamp': '2024-09-23 - 12:06:07.143'}]
+2024-09-23 - 12:06:07.135 - RobotExecution - [204.1544952392578, 495.7067565917969, 374.9756774902344, 79.5606440296464, 168.27547788948868, 94.87496706467704]
+2024-09-23 - 12:06:07.262 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:07.262'}
+2024-09-23 - 12:06:07.262 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:07.262'}
+2024-09-23 - 12:06:08.112 - BeforeWebsocket - 2024-09-23 - 12:06:08.143 - {"x": 0.03, "y": 0.03, "z": -0.01, "roll": -1.09, "pitch": -0.24, "yaw": 0.23, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:08.143"}
+2024-09-23 - 12:06:08.112 - AfterWebsocket - {"x": 0.03, "y": 0.03, "z": -0.01, "roll": -1.09, "pitch": -0.24, "yaw": 0.23, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:08.143"}
+2024-09-23 - 12:06:08.112 - BeforePublishingToRos - [{"x": 0.03, "y": 0.03, "z": -0.01, "roll": -1.09, "pitch": -0.24, "yaw": 0.23, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:08.143"}]
+2024-09-23 - 12:06:08.112 - AfterRos - [{'x': 0.03, 'y': 0.03, 'z': -0.01, 'roll': -1.09, 'pitch': -0.24, 'yaw': 0.23, 'button0': 0, 'button1': 0, 'timeStamp': '2024-09-23 - 12:06:08.143'}]
+2024-09-23 - 12:06:08.116 - RobotExecution - [204.1544952392578, 495.7067565917969, 374.9756774902344, 38.01032606993127, 160.99787575383635, 51.98576651931362]
+2024-09-23 - 12:06:08.263 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:08.263'}
+2024-09-23 - 12:06:08.266 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:08.263'}
+2024-09-23 - 12:06:09.162 - BeforeWebsocket - 2024-09-23 - 12:06:09.160 - {"x": -0.23, "y": -0.13, "z": 0.0, "roll": 1.0, "pitch": 0.22, "yaw": -0.15, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:09.160"}
+2024-09-23 - 12:06:09.162 - AfterWebsocket - {"x": -0.23, "y": -0.13, "z": 0.0, "roll": 1.0, "pitch": 0.22, "yaw": -0.15, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:09.160"}
+2024-09-23 - 12:06:09.162 - BeforePublishingToRos - [{"x": -0.23, "y": -0.13, "z": 0.0, "roll": 1.0, "pitch": 0.22, "yaw": -0.15, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:09.160"}]
+2024-09-23 - 12:06:09.162 - AfterRos - [{'x': -0.23, 'y': -0.13, 'z': 0.0, 'roll': 1.0, 'pitch': 0.22, 'yaw': -0.15, 'button0': 0, 'button1': 0, 'timeStamp': '2024-09-23 - 12:06:09.160'}]
+2024-09-23 - 12:06:09.167 - RobotExecution - [197.2544952392578, 495.7067565917969, 374.9756774902344, 74.57808457132491, 168.03284404612253, 89.78254682411442]
+2024-09-23 - 12:06:09.267 - FeedbackGeneratedfromRos - {'status': '(2) MOVING', 'timestamp': '2024-09-23 12:06:09.267'}
+2024-09-23 - 12:06:09.267 - FeedbackAfterWebsocket - {'status': '(2) MOVING', 'timestamp': '2024-09-23 12:06:09.267'}
+2024-09-23 - 12:06:10.186 - BeforeWebsocket - 2024-09-23 - 12:06:10.176 - {"x": 0.0, "y": -0.07, "z": 0.0, "roll": 1.0, "pitch": 0.07, "yaw": -0.13, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:10.176"}
+2024-09-23 - 12:06:10.186 - AfterWebsocket - {"x": 0.0, "y": -0.07, "z": 0.0, "roll": 1.0, "pitch": 0.07, "yaw": -0.13, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:10.176"}
+2024-09-23 - 12:06:10.186 - BeforePublishingToRos - [{"x": 0.0, "y": -0.07, "z": 0.0, "roll": 1.0, "pitch": 0.07, "yaw": -0.13, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:10.176"}]
+2024-09-23 - 12:06:10.187 - AfterRos - [{'x': 0.0, 'y': -0.07, 'z': 0.0, 'roll': 1.0, 'pitch': 0.07, 'yaw': -0.13, 'button0': 0, 'button1': 0, 'timeStamp': '2024-09-23 - 12:06:10.176'}]
+2024-09-23 - 12:06:10.191 - RobotExecution - [197.2544952392578, 495.7067565917969, 374.9756774902344, 126.53940649995218, 165.59010831735696, 142.96564668959422]
+2024-09-23 - 12:06:10.268 - FeedbackGeneratedfromRos - {'status': '(2) MOVING', 'timestamp': '2024-09-23 12:06:10.268'}
+2024-09-23 - 12:06:10.268 - FeedbackAfterWebsocket - {'status': '(2) MOVING', 'timestamp': '2024-09-23 12:06:10.268'}
+2024-09-23 - 12:06:11.210 - BeforeWebsocket - 2024-09-23 - 12:06:11.177 - {"x": 0.06, "y": -0.24, "z": 0.0, "roll": 0.63, "pitch": -0.74, "yaw": -0.14, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:11.177"}
+2024-09-23 - 12:06:11.210 - AfterWebsocket - {"x": 0.06, "y": -0.24, "z": 0.0, "roll": 0.63, "pitch": -0.74, "yaw": -0.14, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:11.177"}
+2024-09-23 - 12:06:11.210 - BeforePublishingToRos - [{"x": 0.06, "y": -0.24, "z": 0.0, "roll": 0.63, "pitch": -0.74, "yaw": -0.14, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:11.177"}]
+2024-09-23 - 12:06:11.210 - AfterRos - [{'x': 0.06, 'y': -0.24, 'z': 0.0, 'roll': 0.63, 'pitch': -0.74, 'yaw': -0.14, 'button0': 0, 'button1': 0, 'timeStamp': '2024-09-23 - 12:06:11.177'}]
+2024-09-23 - 12:06:11.215 - RobotExecution - [197.2544952392578, 488.5067565917969, 374.9756774902344, 113.19291733099969, 157.82858477539284, 128.9411609357265]
+2024-09-23 - 12:06:11.269 - FeedbackGeneratedfromRos - {'status': '(2) MOVING', 'timestamp': '2024-09-23 12:06:11.269'}
+2024-09-23 - 12:06:11.269 - FeedbackAfterWebsocket - {'status': '(2) MOVING', 'timestamp': '2024-09-23 12:06:11.269'}
+2024-09-23 - 12:06:12.234 - BeforeWebsocket - 2024-09-23 - 12:06:12.185 - {"x": -0.09, "y": -0.03, "z": 0.11, "roll": -0.02, "pitch": 0.9, "yaw": -0.44, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:12.185"}
+2024-09-23 - 12:06:12.234 - AfterWebsocket - {"x": -0.09, "y": -0.03, "z": 0.11, "roll": -0.02, "pitch": 0.9, "yaw": -0.44, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:12.185"}
+2024-09-23 - 12:06:12.234 - BeforePublishingToRos - [{"x": -0.09, "y": -0.03, "z": 0.11, "roll": -0.02, "pitch": 0.9, "yaw": -0.44, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:12.185"}]
+2024-09-23 - 12:06:12.235 - AfterRos - [{'x': -0.09, 'y': -0.03, 'z': 0.11, 'roll': -0.02, 'pitch': 0.9, 'yaw': -0.44, 'button0': 0, 'button1': 0, 'timeStamp': '2024-09-23 - 12:06:12.185'}]
+2024-09-23 - 12:06:12.243 - RobotExecution - [197.2544952392578, 488.5067565917969, 374.9756774902344, 131.47421875405928, 167.08489501918706, 148.04536472048204]
+2024-09-23 - 12:06:12.270 - FeedbackGeneratedfromRos - {'status': '(2) MOVING', 'timestamp': '2024-09-23 12:06:12.269'}
+2024-09-23 - 12:06:12.270 - FeedbackAfterWebsocket - {'status': '(2) MOVING', 'timestamp': '2024-09-23 12:06:12.269'}
+2024-09-23 - 12:06:13.234 - BeforeWebsocket - 2024-09-23 - 12:06:13.192 - {"x": 0.0, "y": -0.08, "z": -0.06, "roll": 0.06, "pitch": -0.22, "yaw": -0.13, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:13.192"}
+2024-09-23 - 12:06:13.234 - AfterWebsocket - {"x": 0.0, "y": -0.08, "z": -0.06, "roll": 0.06, "pitch": -0.22, "yaw": -0.13, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:13.192"}
+2024-09-23 - 12:06:13.234 - BeforePublishingToRos - [{"x": 0.0, "y": -0.08, "z": -0.06, "roll": 0.06, "pitch": -0.22, "yaw": -0.13, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:13.192"}]
+2024-09-23 - 12:06:13.234 - AfterRos - [{'x': 0.0, 'y': -0.08, 'z': -0.06, 'roll': 0.06, 'pitch': -0.22, 'yaw': -0.13, 'button0': 0, 'button1': 0, 'timeStamp': '2024-09-23 - 12:06:13.192'}]
+2024-09-23 - 12:06:13.238 - RobotExecution - [197.2544952392578, 488.5067565917969, 374.9756774902344, 131.47421540363803, 167.08489076128166, 148.04536094777026]
+2024-09-23 - 12:06:13.271 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:13.271'}
+2024-09-23 - 12:06:13.271 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:13.271'}
+2024-09-23 - 12:06:14.272 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:14.272'}
+2024-09-23 - 12:06:14.275 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:14.272'}
+2024-09-23 - 12:06:15.275 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:15.275'}
+2024-09-23 - 12:06:15.278 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:15.275'}
+2024-09-23 - 12:06:16.278 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:16.278'}
+2024-09-23 - 12:06:16.278 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:16.278'}
+2024-09-23 - 12:06:16.430 - BeforeWebsocket - 2024-09-23 - 12:06:16.447 - {"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:16.447"}
+2024-09-23 - 12:06:16.430 - AfterWebsocket - {"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:16.447"}
+2024-09-23 - 12:06:16.430 - BeforePublishingToRos - [{"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:16.447"}]
+2024-09-23 - 12:06:16.431 - AfterRos - [{'x': 0.0, 'y': 0.0, 'z': 0.0, 'roll': 0.0, 'pitch': 0.0, 'yaw': 0.0, 'button0': 0, 'button1': 0, 'timeStamp': '2024-09-23 - 12:06:16.447'}]
+2024-09-23 - 12:06:17.651 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:17.651'}
+2024-09-23 - 12:06:17.651 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:17.651'}
+2024-09-23 - 12:06:17.673 - BeforeWebsocket - 2024-09-23 - 12:06:17.459 - {"x": 0.16, "y": -0.16, "z": -0.47, "roll": 0.51, "pitch": -0.31, "yaw": 0.05, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:17.459"}
+2024-09-23 - 12:06:17.673 - AfterWebsocket - {"x": 0.16, "y": -0.16, "z": -0.47, "roll": 0.51, "pitch": -0.31, "yaw": 0.05, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:17.459"}
+2024-09-23 - 12:06:17.673 - BeforePublishingToRos - [{"x": 0.16, "y": -0.16, "z": -0.47, "roll": 0.51, "pitch": -0.31, "yaw": 0.05, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:17.459"}]
+2024-09-23 - 12:06:18.581 - BeforeWebsocket - 2024-09-23 - 12:06:18.475 - {"x": 0.17, "y": -0.2, "z": -0.35, "roll": 0.63, "pitch": -0.34, "yaw": 0.09, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:18.475"}
+2024-09-23 - 12:06:18.582 - AfterWebsocket - {"x": 0.17, "y": -0.2, "z": -0.35, "roll": 0.63, "pitch": -0.34, "yaw": 0.09, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:18.475"}
+2024-09-23 - 12:06:18.582 - BeforePublishingToRos - [{"x": 0.17, "y": -0.2, "z": -0.35, "roll": 0.63, "pitch": -0.34, "yaw": 0.09, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:18.475"}]
+2024-09-23 - 12:06:18.652 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:18.652'}
+2024-09-23 - 12:06:18.653 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:18.652'}
+2024-09-23 - 12:06:19.614 - BeforeWebsocket - 2024-09-23 - 12:06:19.476 - {"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:19.476"}
+2024-09-23 - 12:06:19.614 - AfterWebsocket - {"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:19.476"}
+2024-09-23 - 12:06:19.614 - BeforePublishingToRos - [{"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:19.476"}]
+2024-09-23 - 12:06:19.654 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:19.654'}
+2024-09-23 - 12:06:19.655 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:19.654'}
+2024-09-23 - 12:06:20.656 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:20.656'}
+2024-09-23 - 12:06:20.656 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:20.656'}
+2024-09-23 - 12:06:21.657 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:21.657'}
+2024-09-23 - 12:06:21.658 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:21.657'}
+2024-09-23 - 12:06:21.858 - BeforeWebsocket - 2024-09-23 - 12:06:21.875 - {"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:21.875"}
+2024-09-23 - 12:06:21.858 - AfterWebsocket - {"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:21.875"}
+2024-09-23 - 12:06:21.858 - BeforePublishingToRos - [{"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:21.875"}]
+2024-09-23 - 12:06:22.659 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:22.659'}
+2024-09-23 - 12:06:22.662 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:22.659'}
+2024-09-23 - 12:06:23.087 - BeforeWebsocket - 2024-09-23 - 12:06:22.931 - {"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:22.931"}
+2024-09-23 - 12:06:23.087 - AfterWebsocket - {"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:22.931"}
+2024-09-23 - 12:06:23.087 - BeforePublishingToRos - [{"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:22.931"}]
+2024-09-23 - 12:06:23.663 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:23.663'}
+2024-09-23 - 12:06:23.673 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:23.663'}
+2024-09-23 - 12:06:24.111 - BeforeWebsocket - 2024-09-23 - 12:06:23.947 - {"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:23.947"}
+2024-09-23 - 12:06:24.111 - AfterWebsocket - {"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:23.947"}
+2024-09-23 - 12:06:24.111 - BeforePublishingToRos - [{"x": 0.0, "y": 0.0, "z": 0.0, "roll": 0.0, "pitch": 0.0, "yaw": 0.0, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:23.947"}]
+2024-09-23 - 12:06:24.674 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:24.674'}
+2024-09-23 - 12:06:24.677 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:24.674'}
+2024-09-23 - 12:06:25.140 - BeforeWebsocket - 2024-09-23 - 12:06:24.963 - {"x": 0.09, "y": -0.04, "z": 0.0, "roll": 0.78, "pitch": 0.67, "yaw": 0.01, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:24.963"}
+2024-09-23 - 12:06:25.141 - AfterWebsocket - {"x": 0.09, "y": -0.04, "z": 0.0, "roll": 0.78, "pitch": 0.67, "yaw": 0.01, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:24.963"}
+2024-09-23 - 12:06:25.141 - BeforePublishingToRos - [{"x": 0.09, "y": -0.04, "z": 0.0, "roll": 0.78, "pitch": 0.67, "yaw": 0.01, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:24.963"}]
+2024-09-23 - 12:06:25.677 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:25.677'}
+2024-09-23 - 12:06:25.680 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:25.677'}
+2024-09-23 - 12:06:25.966 - BeforeWebsocket - 2024-09-23 - 12:06:25.964 - {"x": 0.15, "y": 0.15, "z": -0.65, "roll": 0.26, "pitch": 0.25, "yaw": 0.03, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:25.964"}
+2024-09-23 - 12:06:25.974 - AfterWebsocket - {"x": 0.15, "y": 0.15, "z": -0.65, "roll": 0.26, "pitch": 0.25, "yaw": 0.03, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:25.964"}
+2024-09-23 - 12:06:25.976 - BeforePublishingToRos - [{"x": 0.15, "y": 0.15, "z": -0.65, "roll": 0.26, "pitch": 0.25, "yaw": 0.03, "button0": 0, "button1": 0, "timeStamp": "2024-09-23 - 12:06:25.964"}]
+2024-09-23 - 12:06:26.681 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:26.681'}
+2024-09-23 - 12:06:26.688 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:26.681'}
+2024-09-23 - 12:06:27.689 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:27.689'}
+2024-09-23 - 12:06:27.709 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:27.689'}
+2024-09-23 - 12:06:28.723 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:28.722'}
+2024-09-23 - 12:06:28.732 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:28.722'}
+2024-09-23 - 12:06:29.736 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:29.736'}
+2024-09-23 - 12:06:29.745 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:29.736'}
+2024-09-23 - 12:06:30.747 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:30.747'}
+2024-09-23 - 12:06:30.752 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:30.747'}
+2024-09-23 - 12:06:31.753 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:31.753'}
+2024-09-23 - 12:06:31.758 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:31.753'}
+2024-09-23 - 12:06:32.759 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:32.759'}
+2024-09-23 - 12:06:32.759 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:32.759'}
+2024-09-23 - 12:06:33.760 - FeedbackGeneratedfromRos - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:33.760'}
+2024-09-23 - 12:06:33.760 - FeedbackAfterWebsocket - {'status': '(1) STANDBY', 'timestamp': '2024-09-23 12:06:33.760'}
+
